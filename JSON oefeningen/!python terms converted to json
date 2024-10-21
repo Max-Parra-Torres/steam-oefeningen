@@ -1,0 +1,9 @@
+Python               JSON Equivalent
+------------------------------------
+ dict	          =   object
+ list, tuple	  =   array
+ str	          =   string
+ int, float, int  =   number
+ True	          =   true
+ False            =   false
+ None	          =   null
