@@ -55,3 +55,5 @@ import requests
 # This transforms JSON into a python dict. This function is part of the requests import.
 # Then with pikachu['weight'] we now get the value of the key weight which is 60
 # We extracted the value out of the API, great success!
+
+# Refer to JSON oefeningen for more ways to interact with JSON
